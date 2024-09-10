@@ -37,3 +37,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 next-app/.yarn/unplugged/@next-swc-linux-x64-gnu-npm-14.2.9-65d456936a/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node
+next-app/.yarn/unplugged/@next-swc-linux-x64-gnu-npm-14.2.9-65d456936a/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node
