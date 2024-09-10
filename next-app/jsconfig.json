@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "lib": ["es6", "dom", "dom.iterable", "es2015"],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
